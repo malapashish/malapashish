@@ -6,7 +6,7 @@
 [![DEV to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/malapashish)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=malapashish.malapashish)
-I am Frontend Web Developer. I really enjoy learning new farmeworkes and libraries like React , Next Js and React-Redux. I also enjoy designing ui.   
+I am a Frontend Web Developer. I really enjoy learning new farmeworkes and libraries like React , Next Js and React-Redux. I also enjoy designing user interface.   
  
 **Talking about Personal Stuffs:** 
 

@@ -16,3 +16,7 @@ I am Frontend Web Developer. I really enjoy learning new farmeworkes and librari
 - 📝 [Portfolio](https://stoic-lumiere-2c9502.netlify.app/).
 
 </br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+

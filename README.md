@@ -12,14 +12,20 @@ I am Frontend Web Developer. I really enjoy learning new farmeworkes and librari
 
 - 👨🏻‍💻 I'm currently learning React-Redux and Firebase;
 - 💬 Ask me about anything, I'm happy to help;
-- 📝 I regulary write articles on [DevTO](https://dev.to/malapashish);
+- 📝 I regulary write articles on [Dev.TO](https://dev.to/malapashish);
 - 📝 [Portfolio](https://stoic-lumiere-2c9502.netlify.app/).
 
 </br>
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+📈 **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malapashish&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malapashish&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>

@@ -17,13 +17,9 @@ I am a Frontend Web Developer. I really enjoy learning new farmeworkes and libra
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3176uakxogvk4dsstbblqwd4lfva&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=3176uakxogvk4dsstbblqwd4lfva&redirect=true)
+ 
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malapashish&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

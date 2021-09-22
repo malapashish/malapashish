@@ -16,9 +16,6 @@ I am a Frontend Web Developer. I really enjoy learning new farmeworkes and libra
 - 📝 [Portfolio](https://stoic-lumiere-2c9502.netlify.app/).
 
 </br>
-
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3176uakxogvk4dsstbblqwd4lfva&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=3176uakxogvk4dsstbblqwd4lfva&redirect=true)
  
 📈 **My GitHub Stats:**
 <p>

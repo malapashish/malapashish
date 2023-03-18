@@ -9,7 +9,7 @@ I am a Frontend Web Developer. I really enjoy learning new farmeworkes and libra
  
 **Talking about Personal Stuffs:** 
 
-- 👨🏻‍💻 I'm currently learning React-Redux and Firebase;
+- 👨🏻‍💻 I'm currently learning Firebase;
 - 💬 Ask me about anything, I'm happy to help;
 - 📝 I regulary write articles on [Dev.TO](https://dev.to/malapashish);
 

@@ -12,7 +12,6 @@ I am a Frontend Web Developer. I really enjoy learning new farmeworkes and libra
 - 👨🏻‍💻 I'm currently learning React-Redux and Firebase;
 - 💬 Ask me about anything, I'm happy to help;
 - 📝 I regulary write articles on [Dev.TO](https://dev.to/malapashish);
-- 📝 [Portfolio](https://stoic-lumiere-2c9502.netlify.app/).
 
 </br>
  
